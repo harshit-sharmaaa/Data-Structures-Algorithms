@@ -1,3 +1,5 @@
+//this program will print prime from 2 to n
+
 #include <iostream>
 using namespace std;
 
